@@ -1,5 +1,5 @@
 # VORP-Bookcleangun
-Beta Cleaning weapon script V1
+Cleaning weapon script
 
 ## Requirements
 - [VORP Core](https://github.com/VORPCORE/VORP-Core/releases)
