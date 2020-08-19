@@ -6,6 +6,7 @@ Cleaning weapon script
 
 ## 1.Requirements
 - [VORP Core](https://github.com/VORPCORE/VORP-Core/releases)
+- [VORP Inventory](https://github.com/VORPCORE/VORP-Inventory/releases)
 
 ## 2. Installation
 - Copy and paste ```bookat_cleangun``` folder to ```resources/bookat_cleangun```
