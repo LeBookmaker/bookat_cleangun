@@ -1,17 +1,23 @@
-# VORP-Bookcleangun
+# VORP-Core bookat_cleangun
 Cleaning weapon script
 
-## Requirements
+## Preview
+- [Video](https://streamable.com/px5abv)
+
+## 1.Requirements
 - [VORP Core](https://github.com/VORPCORE/VORP-Core/releases)
 
-## How to install
-* Copy and paste ```vorp_bookcleangun``` folder to ```resources/vorp_bookcleangun```
-* Add ```ensure vorp_bookcleangun``` to your ```server.cfg``` file
-* To change the language go to ```resources/vorp_bookcleangun/Config.lua```, and chenge the language 
-* Enjoy!
-
-## Credits
-* Le Bookmaker 
-* Alphatule
+## 2. Installation
+- Copy and paste ```bookat_cleangun``` folder to ```resources/bookat_cleangun```
+- Add ```ensure bookat_cleangun``` to your ```server.cfg``` file
+- Add items to you DB you can find different language en ```sql``` folder
+- To change the language go to ```resources/bookat_cleangun/Config.lua```, and chenge the language 
+- Enjoy!
 
 
+## 3. Info
+- To get support --> [Discord](http://discord.vorpcore.com/)
+- Made between [Le Bookmaker](https://github.com/LeBookmaker) and [alphatule](https://github.com/alphatule)
+
+## 4. Last Update
+- 08/19/2020
