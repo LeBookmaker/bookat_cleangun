@@ -7,7 +7,7 @@ Beta Cleaning weapon script V1
 ## How to install
 * Copy and paste ```vorp_bookcleangun``` folder to ```resources/vorp_bookcleangun```
 * Add ```ensure vorp_bookcleangun``` to your ```server.cfg``` file
-* To change the language go to ```resources/vorp_bookcleangun/Config.json```, and chenge the language 
+* To change the language go to ```resources/vorp_bookcleangun/Config.lua```, and chenge the language 
 * Enjoy!
 
 ## Credits
